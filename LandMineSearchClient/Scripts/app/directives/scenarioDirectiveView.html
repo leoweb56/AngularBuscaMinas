@@ -1,0 +1,8 @@
+﻿<table ng-if="rows.length>0">
+    <tr ng-repeat="row in rows">
+        <td ng-repeat="column in row.columns">
+            
+            <img src="Content/img/{{column.imgName}}.png" ng-click="click(column)" />
+        </td>
+    </tr>
+</table>

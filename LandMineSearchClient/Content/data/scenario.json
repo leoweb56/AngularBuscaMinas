@@ -1,0 +1,67 @@
+﻿{
+  "ScenarioId": 91,
+  "PlayersScenario": {
+    "PlayersScenarioId": 86,
+    "Player1": {
+      "PlayerId": 1,
+      "PlayerName": "Juan",
+      "IsAvailable": false,
+      "IsActive": true
+    },
+    "Player2": {
+      "PlayerId": 2,
+      "PlayerName": "Pedro",
+      "IsAvailable": false,
+      "IsActive": true
+    }
+  },
+  "Mines": [
+    {
+      "MineId": 784,
+      "Row": 2,
+      "Column": 0,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 785,
+      "Row": 2,
+      "Column": 2,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 786,
+      "Row": 5,
+      "Column": 0,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 787,
+      "Row": 6,
+      "Column": 0,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 788,
+      "Row": 6,
+      "Column": 2,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 789,
+      "Row": 8,
+      "Column": 0,
+      "ScenarioId": 91
+    },
+    {
+      "MineId": 790,
+      "Row": 8,
+      "Column": 2,
+      "ScenarioId": 91
+    }
+  ],
+  "Rows": 9,
+  "Columns": 9,
+  "IsActive": true,
+  "PlayerWin": null,
+  "CreatedDate": "2016-09-21T22:11:18.7551099-03:00"
+}

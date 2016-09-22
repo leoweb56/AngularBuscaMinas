@@ -1,0 +1,4 @@
+﻿<div ng-controller="scenarioController as vm">
+    <h2>{{'Vs'|showPlayers:vm.player1.PlayerName:vm.player2.PlayerName}}</h2>
+    <scenario-cells ng-model="vm.scenario" click-cell="vm.clickCell(cell)"></scenario-cells>
+</div>

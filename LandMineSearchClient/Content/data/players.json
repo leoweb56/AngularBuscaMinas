@@ -1,0 +1,44 @@
+﻿[
+  {
+    "PlayerId": 1,
+    "PlayerName": "Juan",
+    "IsAvailable": false,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 2,
+    "PlayerName": "Pedro",
+    "IsAvailable": false,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 3,
+    "PlayerName": "Fer",
+    "IsAvailable": false,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 4,
+    "PlayerName": "Ariel",
+    "IsAvailable": true,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 5,
+    "PlayerName": "LeoDS",
+    "IsAvailable": true,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 6,
+    "PlayerName": "Claudio",
+    "IsAvailable": true,
+    "IsActive": true
+  },
+  {
+    "PlayerId": 7,
+    "PlayerName": "Luis",
+    "IsAvailable": true,
+    "IsActive": true
+  }
+]
